@@ -63,8 +63,8 @@ def withoutExpla(oldLoc,filename,newLoc):
 def cleaner(oldLoc,newLoc):
     # cleans all files in location
     for filename in os.listdir(path=oldLoc):
-        print("Working on "+filename, end="\r")
         print("                                   ", end="\r")
+        print("Working on "+filename, end="\r")
         withoutExpla(oldLoc,filename,newLoc)
     
 cleaner('RawASCII','DataASCII')
