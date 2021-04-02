@@ -32,9 +32,9 @@ def removeWords(line):
                             replace=True
                             break;
         if replace:
-            print(line)
+            # print(line)
             line = line.replace(word, " "*len(word))
-            print(line)
+            # print(line)
     
     return line
 
@@ -63,6 +63,7 @@ def withoutExpla(oldLoc,filename,newLoc):
 def cleaner(oldLoc,newLoc):
     # cleans all files in location
     for filename in os.listdir(path=oldLoc):
+        print("Working on "+filename, "\r")
         withoutExpla(oldLoc,filename,newLoc)
     
 cleaner('RawASCII','DataASCII')
