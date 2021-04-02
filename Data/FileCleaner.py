@@ -16,17 +16,18 @@ def removeWords(line):
     # replaces english words for an equal number of spaces
     #
     for word in line.split():
-        wordNoPunct=word
+        # wordNoPunct=word.strip(punctuation)
         replace=False
-        with open("Dict3000.txt") as dic:
+        with open("Dict58000.txt") as dic:
             for w in dic.readlines():
-                if wordNoPunct == w.strip("\n"):
+                if word == w.strip("\n"):
                     replace=True
                     break;
-        print(line)
-        line = line.replace(word, " "*len(word))
+        if replace:
+            print(line)
+            line = line.replace(word, " "*len(word))
+            print(line)
     
-    print(line)
     return line
 
 def isWhitespace(line):
@@ -42,7 +43,7 @@ def withoutExpla(oldLoc,filename,newLoc):
     # creating a new file per art piece, hopefully correlations are similar 
     # enough to not be a problem.
     
-    with open(oldLoc+"/"+filename,"r") as oldF, open(newLoc+"/"+filename,"w") as newF:
+    with open(oldLoc+"/"+filename,"r",encoding="utf8",errors="replace") as oldF, open(newLoc+"/"+filename,"w",encoding="utf8",errors="replace") as newF:
         for line in oldF.readlines():
             newline = removeWords(line)
             if not isWhitespace(newline):
