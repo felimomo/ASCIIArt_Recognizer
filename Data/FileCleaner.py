@@ -18,7 +18,7 @@ def withoutExpla(oldLoc,filename,newLoc):
     # creating a new file per art piece, hopefully correlations are similar 
     # enough to not be a problem.
     
-    with open(oldLoc+filename,"r") as oldF, open(newLoc+filename,"w") as newF:
+    with open(oldLoc+"/"+filename,"r") as oldF, open(newLoc+"/"+filename,"w") as newF:
         for line in oldF.readlines():
             if not explanation(line) and line!="\n":
                 newF.write(line)
@@ -26,9 +26,7 @@ def withoutExpla(oldLoc,filename,newLoc):
 
 def cleaner(oldLoc,newLoc):
     # cleans all files in location
-    for filename in os.scandir(path=location):
-        assert filename.path.endswith(".txt"), "Found non .txt file."
-        eraseExpla(location,filename)
-        separate(location,filename)
+    for filename in os.listdir(path=oldLoc):
+        withoutExpla(oldLoc,filename,newLoc)
     
-cleaner('./RawData')
+cleaner('./RawASCII','./DataASCII')
