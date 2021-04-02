@@ -1,0 +1,16 @@
+From: BoD 
+                          netfilter                  HOWTO            Russell 
+http://www.netfilter.org/unreliable-guides/packet-filtering-HOWTO/packet-filtering-HOWTO.linuxdoc-7.html
+            (pkt/s)
+             ^        .---.
+             |       / DoS \
+             |      /       \
+        DoS -|.....:.........\.......................
+ = (limit *  |    /:          \
+limit-burst) |   / :           \         .-.
+             |  /  :            \       /   \
+             | /   :             \     /     \
+       DoS  -|/....:..............:.../.......\..../.
+ =           |     :              :`-'         `--'
+-------------+-----+--------------+------------------>      (s)
+         =>        | Didn't       |         

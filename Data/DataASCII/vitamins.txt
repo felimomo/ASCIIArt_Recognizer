@@ -1,0 +1,283 @@
+1.2 Name: L-Ascorbic     
+1.3        Synonyms:         C
+L-threo-2,3,4,5,6-pentahydroxy-1-hexenoic acid-4-lactone
+1.4           Formula: C6H806
+1.5                   
+    |   |
+    C = C
+    |   |
+0 = C   CH-CHOH-CH2OH
+     0
+      .O.       
+    ,'   `.   |
+O==C       C--C--CH2OH
+    \     /
+     C===C
+    /     \
+From:     Norwood
+Righteo    n,                                              resurfaced,
+    it's cold/flu se son, I         I'd            t            vit min
+set,                 up,   b      biochemic l trivi   s      :)
+H3C    CH3    CH3     CH3
+   `.,'       |       |   CH2OH
+   ,'`. ,'\\,'\\,'\\,'\\,'
+  |   ||
+   `..' `.
+          CH3        mbfh
+H3C    CH3           CH3           CH3
+   `.,'              |             |      CH2OH
+   ,'`.     ,'\\   ,'\\   ,'\\   ,'\\   ,'
+ ,'    `, ,'   \\,'   \\,'   \\,'   \\,'
+|       :|
+|       :|
+ `.    ,' `.
+   `..'     `.
+              CH3       mbfh   
+          - retinol
+                          body, comb  es          prote   ops          
+rhodops   (visual purple)        eye's     (night-vision) cells.
+                                         H3C
+H3C    CH3    CH3     CH3                   `.,'`,
+   `.,'       |       |                      ||   |
+   ,'`. ,'\\,'\\,'\\,'\\,'\\,'\\,'\\,'\\,'\\,'`.,'       mbfh
+  |   ||                       |       |      ,'`,
+   `..' `.                     CH3     CH3 H3C    CH3
+          CH3
+              - Beta-carotene
+Pro-                                                                
+              'normal' vitamin. Beta-carotene                          
+         (yes,                *can*                           
+night-v  ion),                        yellow/or nge      colour nt.
+-oOo-oOo-oOo-
+    B                -               'Vitamin B Complex'.
+                                                  un                    
+     group.                                           yeast,         
+                                  subst nce. L ter,                 
+     seperated     labelled.                              B's 4, 5, 7,
+8, 9, 10     11 weren't vitamins,            1, 2, 3, 5, 6, 12 remain,
+     biotin     folacin.
+       N----.           ,----S
+      //    \\        +//    |
+H3C--<        >--CH2--N      |
+      \      /       _ \     |                mbfh
+       N===='      Cl   `====+
+                       ,'     `.,'`.
+                    H3C               
+        B1 - Thiamine
+                           beriberi, it's pyrophosphate                 
+Coenzyme A,               vit l         respir tion.
+-oOo-
+                 `.
+                   `.
+                    |
+                    |
+           `.     ,' `.
+             `. ,'     `.
+               |           
+               |
+             ,' `.
+           ,'     `.
+                   |
+H3C                |
+   `.    ,'`.     ,N.     ,N.
+     `.,'  `.`. ,'   `. ,',' `.
+      ||     ` |       | '     |
+      ||     , |     , |       |                    mbfh
+     ,'`.  ,',' `. ,',' `.    ,N--H
+   ,'    `.,'     `N'     `.,'
+H3C                        ||
+                            O
+        B2 -           
+                 ntioxid nt vit mins,                       nd FMN
+co-enzymes,                          colour nt    food.
+-oOo-
+             O
+             ||
+             ||
+   ,'`,     ,'`.
+ ,'  `.`. ,'    `.
+||     ` |          
+||     , |
+ `.  ,','
+   `N '                           mbfh
+        B3 - Nictotinic      / Niacin
+    carboxylic         nicotine,            ficials           'niacin'
+                                                              RDA   
+                smoking...
+                        into:
+             O
+             ||
+             ||
+   ,'`,     ,'`.
+ ,'  `.`. ,'    `.
+||     ` |        NH2
+||     , |
+ `.  ,','                            mbfh
+   `N '
+Nicotinamide,              B3,                            NADH (and
+NADPH    pl nts),   coenzyme         extr ct             c rbohydr tes.
+                                          nicotine,                     
+               from:
+   ,'`,           ,'`.     ,'`.
+ ,'  `.`.       ,','  `. ,'  `.`.
+||     ` |     | '      ||     ` |
+||     , |     | .      ||     , |
+ `.  ,','       `.`.  ,' `.  ,','
+   `N '           `.,'     `N '                    mbfh
+                    Quinoline
+-oOo-
+  H3C  CH3      
+     `.|    ,'
+       >---'
+     ,'
+HO--<         H
+     `.     ,'
+       >---N                         
+      //    `.                   ,'
+      O       `---.         ,---<                 mbfh 
+                   `.     ,'     \\
+                     N---'        O
+                   ,'
+                  H
+        B5 - Pantothenic     
+Pantothenic                                Coenzyme A,             
+                                     derivates                         
+"Pro-Vitamin B5 Complex"    panthenol/panthenate.              iginally
+                  WWII       victims,                                 
+                                    streng   n hair,             
+Pantene            (now          Glaxo Smithkline,           SB's
+website).
+-oOo-
+H  2C                    
+     `.     ,'`,     ,'
+       `. ,','  `. ,'
+         | '     ||
+         | .     ||
+          `.`.  ,' `.                           mbfh  
+            `N '     `.
+                       CH3
+        B6 - Pyridoxine
+                          antibodies,                haemoglob  ,    
+              proteins.
+-oOo-
+        B12 - Cyanocobalamine
+           erythrocytes (red       cells).               asciified    
+       complexity.
+         info: http://www.chem.ox.ac.uk/mom/vitamins/vitaminb12.html
+        description:         B12          of:
+  monov lent cob lt met l  t     center,                 porphyrin-like
+             tetr pyrrole rings,                                cy no
+            5',6'-dimethylbenzimid zolyl nucleotide                   
+    tetr pyrrole             phosph te sug r link ge.
+(see, I                 complicated!)
+-oOo-
+H2N
+   `.     ,N.      ,N.
+     `. ,','  `. ,'  `.`.
+       | '     ||      ` |
+       | .     ||        |
+        `.`.  ,' `.    ,' `.
+          `.,'     `N '     `.
+           |                  |
+           |                  |
+                              NH
+                   ,'`.     ,'
+                 ,'  `.`. ,'
+                ||     ` |
+       O        ||     , |
+        `.    ,' `.  ,','
+        `.`.,'     `.,'
+          ` |       
+            |
+           HN
+             `.    ,'||`.
+               `.,'  ||  `.
+                 |   O       
+                 |
+               ,'
+             ,'
+            |
+            |                                           mbfh
+          ,' `.
+        ,','   `.
+       O '         
+        Bc - Folacin / Folic     
+                 DNA, RNA, erythrocytes,     antibodies,                
+   foetuses.                             leaves,                        
+cooking.
+-oOo-
+[no pic    altavista can't      it's                     copy]
+Biotin
+                          carbohydrates, ma  ta  s         sk  ,     
+    nails.
+-oOo-oOo-oOo-
+                    |
+         ,O.        |
+ O.    ,'   `.    ,' `.
+ `.`.,'       `.,'     `CH2OH
+   ` \         /
+      \       /                                     mbfh
+       >-----<
+     ,'       `,
+  HO'           `OH
+        C -              
+                                                           vitamin, I'll
+                                 e...
+-oOo-
+                                             CH3
+                                             |
+                         H3C                 |
+                            `.     ,'`.    ,' `.
+                              `. ,'  `.`.,'     `.
+                                |      `|         CH3
+                            CH3 |       |
+                      ,'`.  |  ,'\      CH3
+                    ,'    `.|,'   \
+                   |        |      \
+               H2C |        |      /
+         ,'`.   //  `.    ,' `.   /
+       ,'    `.//     `.,'     `./
+      |        |       ||
+      |        | .     ||                            mbfh
+    ,' `.    ,' `.`.  ,'
+  ,'     `.,'     `.,'
+        D2 - Calciferol
+                                           bones,                       
+            phosphorous,         D2                                    
+7-dehydrocholesterol (a               cholesterol).
+-oOo-
+         |                                             mbfh  
+         |
+  `.    ,'`.     ,'`.
+    `.,' ., `. ,'    `.
+     |  |  |  |        |       H3C    H    H3C    H
+     |  |  |  |        |          `.,'        `.,'          ,'
+   ,' `. `' ,' `.    ,'|`.  ,'`.  ,'`.  ,'`.  ,'`.  ,'`.  ,'`.
+ ,'     `.,'     `O '  |  `'    `'    `'    `'    `'    `'    `
+          |            CH3
+          |
+        E - d-alpha tocopherol
+                                (it's      ti-coagul  t   d
+v  o-dilator),             ti-oxid  t    well.
+-oOo-
+             O                  |""            ""|
+             ||               | |             |  |
+             ||               | |             |  |
+   ,'`.     ,'`.     ,'`.    ,'`|    ,'`.    ,'`.|
+ ,' ,. `. ,'    `. ,'    `.,',' |`.,'    `.,'    |.
+|  |  |  |       ||             |                |
+|  |  |  |       ||             |                |
+ `. `' ,' `.    ,'              |__            __|n
+   `.,'     `O '
+             ||
+             ||
+             O                         mbfh
+        K2 - Menaquinone (side              varies)
+                         (in K1 - phylloquinone, n=3)
+                  clott  g,                  prothromb  
+-oOo-
+                 stated,                  (manu   y!)             gifs
+   http://www.geocities.com/CollegePark/Den/5701/ES.htm
+    asciifications           (c)          Norwood,         2000
+                                           asciifications,       
+                         "mbfh"

@@ -1,0 +1,14 @@
+    Microsoft MS-DOS.5 User's                     says:
+         MS-DOS                       prompt:
+       C>     
+---------------------------------------------------------
+                            DOS       
+               -----------------------
+  /mmm\        /mmm\        /mmm\
+  (O o)        (O O)        (o o)
+    U            U            u           /mmm\
+  ||\  \\        / \\         .           (- -)
+ oOOo__oOOo   _____oOOo  ___________      __u_oOOo
+############  #########  ###########  ################
+(BAD ANSWER)   (RETRY)   (ONCE MORE)  (Bored & Asleep)
+                  -David Bourgin-

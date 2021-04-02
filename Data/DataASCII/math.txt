@@ -1,0 +1,45 @@
+          mathemagician
+     1+1=2    /\
+           \ c")
+            ;-/\>
+              ||
+ kOs
+From: burmeist@eel.micro.umn.edu (Robert A. Burmeister)
+                                                                    ascii
+characters.                                        programs.             
+                   don't      TeX                f               mathematics.
+3 __                                 ___         _________
+\/8      better,                  3 / 8         / 2    2
+                                  \/          \/ x  + y
+ x  oo  k
+e = E  x / k!
+   k=1
+   better,              
+     oo   k
+ x   __  x
+e  = \  ---
+     /_  k!
+     k=1
+     _       _
+ d  |    1    |      1
+ -- |  -----  | = ------ 2
+ dx |_ 1 - x _|   (1 - x)
+__
+\/ . B = 0                     Maxwell's                  div(B) = 0
+__          ____
+| \ 1      /   
+|   - =   / ---
+|   2   \/   2
+ |^ sin(x) dx = -cos(x) + C
+^
+   better,           
+ |^
+ | F dx =     
+ |
+^
++oo
+ |^ sin(ax) sin(bx)         (pi)a
+ |  --------------- dx  =   ----- ,        < b
+ |          2                 2
+^          x
+ 0

@@ -1,0 +1,51 @@
+                             <center><table
+                          cellpadding = "20"
+                             = "20"       = "50%">
+                   <tr><td bgcolor = "#FF00FF"><table
+                 cellpadding = "20"> <tr> <td bgcolor =
+                "#000000"> <font       = "#FFFFFF"> <font
+                  = "6"><font                 = "#FFFF00" >
+            WHAT? </font>                     </font> <p>    
+          <b>you</b><i>                                  </i>
+              <b>you                              </b>      <i>
+                                                   </i><font     
+       = "+1" >                                   <font         =
+      "#ffff99">                                 <b>          </b>
+     </font><font                                     "+1"  >  <font
+            =                                "#FF3333">H</font><font
+           =                                "#99FF99">T   </font><font
+          =                                "#9999FF">M     </font><font
+          =                               "#FFFF99">L       </font><b>
+  ???  </b>                             </font></font>        <p><blink>
+  <font     aaa     aaa color="#FF3333">Whatever for?         </font  >
+  </blink>  <p>         is<i> such</i>a <font       =         "#FF00FF" >
+ <blink     aaa     aaa     aa>     nice</b></blink>          <i>language
+ </i>       <aa     aaa     aa>                   <a>          <font      
+ =#00FFFF   aaa     aaa     aa>  fantastic</font  aa>          <font      
+ =#FF00FF   aaa     aaa     aa>           <blink  aa>                 
+ </blink>   </font><b>!     </b><p> <font     aaa aaa                 =
+ #FF55FF>   <font           ="6">So           <aa aa>          </font >
+ </font>                    <i><b><font       aaa aaa                 =
+ #999999    aaa     aa>             <aa       aaa aa>          </font >
+ </b> </i>          <a>       it?<p>          <aa aa>               <b>
+ <i>losers  <a>     </i> </b>                 <i> <a>         <font      
+  =CCCC00>  <a>           </font>   <aa       aa> </i>to<i>        </i>
+  some<blink a>     <a><b> <font    aaa       aaa        =   "00FFFF">
+                   </font></b>                              </blink><i>
+                  </i>                                               
+    <b><font             =                                 "#9999FF">
+           </font> </b> <i>                                problem,
+     </i>not <blink>mine!                                 </blink><p>
+                                                        <b>   <font
+             = FF3333                                 >save</font>
+        </b>the<font                                 size= "+1">
+         <blink> <i>                                          
+          </i></blink>                         </font>     
+            <b>file</b>                      <i>open</i>   
+                <i> <b> <font                 = "00ff00">
+                Netscape!</font></b></i><b><font       =
+                 "#ffff99">That </font></b> isn't so<i>
+                   <font       = "#ff3333">difficult!
+                     </font></i></td></tr></table>
+                         </td> </tr></table>
+                    <!-- HTML/ASCII           VK -->

@@ -1,0 +1,712 @@
+ __________________________________________________________________________
+                          ____  ____          ___
+                         / __ \/ __ \        / ( )____
+                        / / / / /_/ /   __  / /|/ ___/
+                       / /_/ / __  /   / /_/ / (__  )
+                      /_____/_/  |_|   \____/ /____/
+    _____     _    __      ______       ____                  _
+   / ___/_ __(_)__/ /__   /_  __/__    / __ \_______ __    __(_)__  ___ _
+  / (_ / // / / _  / -_)   / / / _ \  / /_/ / __/ _ `/ |/|/ / / _ \/ _ `/
+  \___/\_._/_/\___/\__/   /_/  \___/ /_____/_/  \_._/|__.__/_/_//_/\_  /
+     ____ ____     ___  _________________   ___  _     __         /___/
+    |_  // __ \   / _ \/ __/ ___/  _/  _/  / _ \(_)___/ /___ _________ ___
+   _/_ </ /_/ /  / _  /\ \/ /___/ /_/ /   / ___/ / __/ __/ // / __/ -_|_-<
+  /____/_____/  /_//_/___/\___/___/___/  /_/  /_/\__/\__/\_._/_/  \__/___/
+ __________________________________________________________________________
+                (c) 1994       J,                        Enterprises.
+ __________________________________________________________________________
+                                       v1.0
+ __________________________________________________________________________
+                  Allison                 Ascii-Art FAQ     Rowan Craw   d
+             Ascii           Techniques,                                   
+                  guide.
+              Stuart Inglis     Todd                      Stereogram FAQ,
+                alt.3d        ftp      katz.anu.edu.au        direct  y
+ pub/stereograms.
+                   Jittlov                  idea.
+           suggestions:
+            Babe, Rowan Crawford, PH,      Hertz, Edwin Khachatourian,
+       Middleton.
+ __________________________________________________________________________
+ 1.                                ____  _____      ____  _____
+ 2.                               |___ \|  __ \    |___ \|  __ \
+ 3.                                  _) | |  | |      _) | |  | |
+ 4.                             ASCII_  ASCII| |ASCII|_ ASCII | |ASCII
+ 5.                                ___) | |__| |    ___) | |__| |
+ 6.                               |____/|_____/    |____/|_____/
+ 7.                            
+ 8.           
+ A.         3D         
+ __________________________________________________________________________
+ 1.             
+               doesn't                             Ascii pictures,      
+                                                 fer guid nce    Ascii  rt
+           .                 w y    l  ting                peculi r   
+                                                               (3D)        
+         I                                them.
+    I'm                                            stereograms.          
+            don't, I've                                                   
+      stereograms.               help,                 stereogram FAQ (see
+ Acknowledgements)                                                   
+                                used.
+                                stereograms                              
+                      (non-random    picture-type)                 random-
+                            PGP     blocks.                               
+   r ndom-letter stereogr m.       re  lso         p in    dr w    h nd!
+                                                 3D                     
+                 opinion. I      however,                             I    
+        topic.
+              .                                        h ve      eyesight.
+             / \              I                                       
+            /   \             stereograms (wide-eye)                     
+        ___/_____\___            eyes,                                  
+       |             |             sitting.                  cross-eyed,
+       | H R D Z   S |                                    inside-out.    I
+       |  x r u h i  |                                   nearer, cross-eyed
+       |   * * * *   |                                                  
+       |    '.'.'    |        vice-versa.    course,                     
+       |_____________|                3D                            cross-
+                                                          them!
+ __________________________________________________________________________
+ 2.           
+    'Let's                   beginning...'.                  done.         
+                  stereogram                                             
+               horizontally.                                        ,     
+                          im ge,         br in c n't                    
+                                                          re         one.
+              paradox,                            re                   
+ im ge,                    depth.
+               non-proportion l           (where  ll              re       
+      width)                                                               
+ stereograms,                                                             
+                                       m.
+                                                  same,      th   -
+                             @__@          @__@
+                              ||            ||
+                              ||            ||
+                              ||            ||
+                             -~~-          -~~-
+                         picture,                   images,              
+                                                   im ge.     br in      
+                 (any                                                   
+      object)                              .                               
+                                     ontop                       right.
+          \__                                 ______/
+             |                               |
+          ___|____________________        ___|____________________
+        L|   |                    |      |   |                    |R
+        e|                        |      |                        |i
+        f|   @__@          @__@   |      |   @__@          @__@   |g
+        t|    ||            ||    |      |    ||            ||    |h
+         |    ||            ||    |      |    ||            ||    |t
+        e|    ||            ||    |      |    ||            ||    |
+        y|   -~~-          -~~-   |      |   -~~-          -~~-   |e
+        e|   |                    |      |                 |      |y
+         |___|____________________|      |_________________|______|e
+             |                                             |
+             |_________________________                ____|
+                                       \              /
+    However, unfocussing                                  (Cross-eyed
+                           two).                           see  g      
+ columns,                                           nd     tr nslucent    s
+           side. It's       e                    we're   terested   
+                                                      screen.
+                                                   images,          
+                                            -
+                              __            __
+                             @__@          @__@
+                              ||            ==
+                              ||            ==
+                              ||            ==
+                             -~~-          -~~-
+                                                 dimensional,          
+                            different,                                    
+   fl t         ch r cters.
+                                                       dimensions,        
+                                   -
+                      @==@          @==@          @==@
+                       ||            ||            || 
+                       ||            ||            || 
+                       ||            ||            || 
+                      =~~=          =~~=          =~~=
+                                     dimensions.                         
+                                   side.     3D                     
+           o,                                Athens!
+         stereogr ms                                                  3D
+ im ge,                       bove.                                      
+                                -
+      ___            ___            ___            ___            ___
+    .' _ '.        .' _ '.        .' _ '.        .' _ '.        .' _ '.
+    |R: '.'        |R: '.'        |R: '.'        |R: '.'        |R: '.'
+    |o|            |o|            |o|            |o|            |o|
+    |c|            |c|            |c|            |c|            |c|
+    |k|            |k|            |k|            |k|            |k|
+    |_|            |_|            |_|            |_|            |_|
+                              toge   r                                  
+                              infront               -
+ --.____.--~~~~~~--.____.--~~~~~~--.____.--~~~~~~--.____.--~~~~~~--.____.--
+            ____            ____            ____            ____
+ '.      .'~    ~'.      .'~    ~'.      .'~    ~'.      .'~    ~'.      .'
+   \    /          \    /          \    /          \    /          \    /
+    Y  Y            Y  Y            Y  Y            Y  Y            Y  Y
+    |  |            |  |            |  |            |  |            |  |
+    |  |            |  |            |  |            |  |            |  |
+    |  |            |  |            |  |            |  |            |  |
+    |__|            |__|            |__|            |__|            |__|
+                                  image.                                   
+ you're                    l rger picture.
+ __________________________________________________________________________
+ 3.        
+                                             images.     3D              
+            geometry,                      me assumpti  s              
+                viewed.
+                                   3D Ascii                          80
+        displ y,              bout 12 - 14              nd          bout 3
+    4                it. Ign  ing               maths,                   
+                                 won't                                   
+                        23 - 25 columns.
+                                                                    th  
+       (see                                        overlap) -
+                         |                        |
+                   _____\|                        |/_____
+                        /|                        |\
+                         |                        |
+                                                      this,                
+                                   wide.                                   
+                     3D                    Ascii                          
+                   work.
+    Remember,                      d  tance                        (A   
+             below),                                                    
+ stereogram (distance B) -
+                           ____              ____
+                         .'    '.          .'    '.
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         |      |<---   -->|
+                         |                 |
+                         |<------ B ------>|
+          're                3D art,                               15 - 18
+                 wide.                                                   
+                                 unfocus      l rge  mount. Persevere, it's
+                                                   eyesight!
+ __________________________________________________________________________
+ 4.               
+                                                     is,                
+                       eyeballs.                                  parallel,
+     fur   r          object.            seen,                             
+                                                re                     
+           depth.                                                bet  en
+              images,                                            appears.
+                           again,                                       
+          -
+                             .                 .
+                            /|\               /|\
+                           / |:\             / |:\
+                          /  |:/            /  |:/
+                         /___|/            /___|/
+                              .               .
+                             /|\             /|\
+                            / |:\           / |:\
+                           /  |:/          /  |:/
+                          /___|/          /___|/
+                               .             .
+                              /|\           /|\
+                             / |:\         / |:\
+                            /  |:/        /  |:/
+                           /___|/        /___|/
+                                            3D image.                     
+                                                      .     bot  m        
+           still.
+                         symmetrical, I've                             
+                 time.                                                  
+                                    image.
+                                                      (wide-eye)        
+                                                                 viewer,
+                                                    picture. Cross-eyed
+                                reverse.
+    We'll                   again,                                       
+               sp ce         e ch l yer - 
+       .               .               .               .               .
+      /|\             /|\             /|\             /|\             /|\
+     / |'\           / |'\           / |'\           / |'\           / |'\
+    /  |'/          /  |'/          /  |'/          /  |'/          /  |'/
+   /___|/          /___|/          /___|/          /___|/          /___|/
+         .              .              .              .              .
+        /|\            /|\            /|\            /|\            /|\
+       / |'\          / |'\          / |'\          / |'\          / |'\
+      /  |'/         /  |'/         /  |'/         /  |'/         /  |'/
+     /___|/         /___|/         /___|/         /___|/         /___|/
+           .             .             .             .             .
+          /|\           /|\           /|\           /|\           /|\
+         / |'\         / |'\         / |'\         / |'\         / |'\
+        /  |'/        /  |'/        /  |'/        /  |'/        /  |'/
+       /___|/        /___|/        /___|/        /___|/        /___|/
+                                              smoother,                    
+ pronounced.
+    I                                symmetry,    re's                     
+ this,                                         don't      up.             
+ ex mple,              don't                                         
+ squ res,                                section,                        
+                                don't                                     
+ other.
+                              depths,   's                            
+                          top.
+ __________________________________________________________________________
+ 5.                
+                                                         layers,        
+                                 nd d  jointed -     individu l im ges  re
+               don't                    other.               3D          
+ o   r,                                    m  e          layer.
+                         s, I                                           
+       ne rer.    I     I've                 im ges                      
+     screen,          I've                                                
+       .                                                                
+                              images.                 continuous,    n I've
+                                        column.
+    Let's                  ex mple        im ges cont ining          l yers
+ first.             (in          weren't sure!) -
+                      ____________       ____________
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |____________|     |____________|
+                        un  terest  g,                                  
+        - 
+                       ____________      ____________
+                      |  ________  |    |  ________  |
+                      | |        | |    | |        | |
+                      | |        | |    | |        | |
+                      | |        | |    | |        | |
+                      | |        | |    | |        | |
+                      | |________| |    | |________| |
+                      |____________|    |____________|
+          flat,                                                           
+                                                       -
+                       ____________      ____________
+                      | ________   |    |  ________  |
+                      ||        |  |    | |        | |
+                      ||        |  |    | |        | |
+                      ||        |  |    | |        | |
+                      ||        |  |    | |        | |
+                      ||________|  |    | |________| |
+                      |____________|    |____________|
+                                              pit,    let's  dd   me     
+         - 
+                       ____________      ____________
+                      | ________   |    |  ________  |
+                      ||  ____  |  |    | |   ____ | |
+                      || |    | |  |    | |  |    || |
+                      || |[]  | |  |    | |  | [] || |
+                      || |____| |  |    | |  |____|| |
+                      ||________|  |    | |________| |
+                      |____________|    |____________|
+                   re son bly                 (elev tor) sh ft.        
+            plac  g     squares?          op  ion.                        
+                                                   -
+                       ____________      ____________
+                      | ________   |    |  ________  |
+                      || ____   |  |    | |  ____  | |
+                      |||    |  |  |    | | |    | | |
+                      |||[]  |  |  |    | | | [] | | |
+                      |||____|  |  |    | | |____| | |
+                      ||________|  |    | |________| |
+                      |____________|    |____________|
+                                                 left? (Did               
+                                    right?            isn't it?!!)    I   
+           double-im ge stereogr m, I        m ke ch nges        l yers   
+                               , o   rwise                               
+                                o   r.                                  3D
+ effect.
+                                 stereogram drawing,     multi-layer 
+                    (sorry, I                               things!).
+                                    l yers.                              
+ multi-      3D                                                          
+                             I      them. We'll                        
+                                            involved.
+    Here's     b ckground,                  lights,          s      -
+1              __                __                __                __
+2         .===|__|          .===|__|          .===|__|          .===|__|
+3         ||                ||                ||                ||
+4         ||                ||                ||                ||
+5         ||                ||                ||                ||
+6         ||                ||                ||                ||
+7         []                []                []                []
+8         []                []                []                []
+9         []                []                []                []
+                                       stereograms                     
+                                 o   r layers.
+        here's     foreground,                             -
+            _  _            _  _            _  _            _  _
+B        __//  |___.     __//  |___.     __//  |___.     __//  |___.
+C       |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+D       `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+                                       streetlights           effect.    
+                                                 on.
+                                           o   r               y        
+              (it's                                                      
+                                       m horizontally) -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    []                []                []                []
+    []                []                []                []
+    []                []                []                []
+            _  _            _  _            _  _            _  _
+         __//  |___.     __//  |___.     __//  |___.     __//  |___.
+        |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+    I've           streetlights                            m bet  en    
+ jeeps.
+                     4       high, we'll                 3             
+                       3        lights.                    I use.
+                                                        (I've            
+                               clearer) -
+6   ||                ||                ||                ||
+            _  _            _  _            _  _            _  _
+7   []                []                []                []
+                                              bot  m      (above).         
+                          copy,                                         
+             go,                                                          
+                     -
+6   ||                ||                ||                ||
+            _  _            _  _            _  _            _  _
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+7   []                []                []                []
+                                               -
+6   ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+                                                    ground -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+6   ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+    []                []                []                []
+    []                []                []                []
+                      -
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B        __//  |___.     __//  |___.     __//  |___.     __//  |___.
+8   []                []                []                []
+                  situ ti                        ch r cters  re          
+                characters,                                           
+                                                   -
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B        __//  |___.     __//  |___.     __//  |___.     __//  |___.
+B+8 []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+8   []                []                []                []
+                                               ground -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B+8 []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+    []                []                []                []
+                    -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B+8 []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+C+9 []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+        multi-layer            stereogram! Phew!
+                                l borious,        'll      th t     m ke
+                                                   other.                 
+ layers,                            shown.
+ __________________________________________________________________________
+ 6.               
+    '                            here...'. Well,                         
+ m sk,             prize.                        I                    I'm
+                        stereograms.
+        3D                                                               
+              dimension l one.      sometimes, l yers overl p          
+                       im ge. Let's              t     bot  m            
+               -
+    ||                ||                ||                ||
+    []      _  _      []    _  _        []  _  _          []_  _
+    []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+    []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+                                        |_____
+                                              \
+                                             here.              3D, th  
+                                                                 h  
+                    with.
+                                   light. However,                        
+                                                    w  h               
+ layers.
+    Instead,                                                     ending
+ characters.         I                        bl  k                  fore-
+              -         case,     jeep.                -
+    ||                ||                ||                ||
+    []      _  _      []    _  _        [   _  _            _  _
+    []   __//  |___.  [] __//  |___.     __//  |___.     __//  |___.
+    []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+                                        I've                  ch r cters,
+                                                   'cleaned up'          
+                           don't               properly.                  
+          judgement,                                               
+                                                     layers,             
+                        *can  t*                 masks,                   
+     try!
+    Unfortun tely,            dr wb ck      m sking -     c n             
+                     stereogram                    picture.     o   r    
+                                             (steal)                    d
+                    Ascii                                                  
+ characters.
+                 example,                               mix.        
+ Ascii                                          '['        streetlight    
+     '_'        jeep's bonnet.                                          
+               Ascii               '['                    streetlight      
+                      horizont l                  eye.                   
+                   low -
+    ||                ||                ||                ||
+    []      _  _      []    _  _        []  _  _          []_  _
+    []   __//  |___.  [] __//  |___.    []_//  |___.     _[//  |___.
+    []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+            dr wing,                                       over ll look.   
+       c ses,                                w y          ch r cter cl shes.
+    course,                                                     subjective,
+    don't                                                                 
+           clash.
+                                            aren't                    
+                           draw  gs,             -
+      .                    .                    .                    .
+      :                    :                    :                    :
+      :    .               :    .               :    .               :
+     .'   .   .           .'   .   .           .'   .   .           .'   .
+    .'   .' O.'   .      .'   .O  .'   .      .'  O.'  .'   .      .'O  .'
+   .'   .'  .'  ..      .'   .'  .'  ..      .'   .'  .'  ..      .'   .'
+   ::   :   .O ..       ::   :  O.' ..       ::   :O  .' ..       ::  O:
+   : \. '   :  :         \. .'   :  :        \.  .'   :  :       \.   .'
+ \,  ;\\,,  :O '.    \,  ;\\,,  O:  '.   \,  ;\\,, O :   '.  \,  ;\\,,O'
+  \\::333:o  .  ''    \\::333:o  '.  ''   \\::333:o   '.  ''  \\::333:o
+ , /:33333:< :  ,      /:33333:<  ,   :    /:33333:<,  ::  :   /:33333:<
+  ' '///''    .:/     ' '///''  .:/   :   ' '///''.:/  .'  :  ' '///'' ::
+     /  :: ,,///;,  ,/   /   ,,///;,  ,/ .:  / ,,///;,  ,/ '. .: /     ::
+       .' o:33333:://       o:33333::// . :   o:33333:://   '. :      .''
+      .' >:3333333:\\      >:3333333:\\ ::   >:3333333:\\    ::      .'  .
+     .'    ''\\\\\" '\       ''\\\\\" '\ :     ''\\\\\" '\   ::     .'   :
+     ::    '. ';\  ' '\   ::    ';\  . '\ '    :: ';\ .  '\ .' '    ::
+     ':..   ' ,. '' :     ':..   ' ,.:'' :     ':..   ' ,.:'' :     ':..
+      :::    .''   ::      :::    .''   ::      :::    .''   ::      :::
+      :::  .:' .  .'       :::  .:' .  .'       :::  .:' .  .'       :::
+      ::: :::  ::::        ::: :::  ::::        ::: :::  ::::        ::: :
+                                    J                   J
+                                             fish's tail,                 
+                                 se weed?      I                         
+                   problem,          for?                                 
+                                                        picture.
+            ide,                                          stereogr m
+             3D                                                          
+                         fl   picture!
+                 random-letter stereograms,                                
+                                   wh                           overlap. I
+                                        draw  gs    add  g            3D.
+        J's                                     picture,                   
+                                     picture's depth.      you've         ,
+                                                              stereogr m
+ immediately.
+          here?         keen,    n't you?!! ;-)
+                                                          techniques,    
+ stereograms.
+ __________________________________________________________________________
+ 7.                            
+                             pers  al opini                        o   rs.
+                           multi-layer stereograms,                     
+                                 .                            fine,       
+                                   spac  g                              
+                                                                      s   
+ 'break up'             viewed.                                  e      
+                                                                  a     r
+ layer.
+        example,             stereogram       - 
+                        (-O-)      (-O-)      (-O-)
+                       |-O-|       |-O-|       |-O-|
+                      (-O-)        (-O-)        (-O-)
+                     |-O-|         |-O-|         |-O-|
+                    (-O-)          (-O-)          (-O-)
+                   |-O-|           |-O-|           |-O-|
+                  (-O-)            (-O-)            (-O-)
+                             layer,        n        downwards,             
+                                                  disjointed.    first,    
+                      iceable,                                      layer,
+                                             3D           m  sing
+ completely.
+       I           e rlier,            'limit'        d  t nce        
+                       stereogr m            p ttern                       
+ seen.                            true,                                  
+         ge   r,          3D                             'lock on  '.    
+ example,                              -
+               ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+               :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o:
+               :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o:
+               :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o:
+                |   |   |   |   |   |   |   |   |   |   |   |
+                |   |   |   |   |   |   |   |   |   |   |   |
+                            unfocus                    sm ll  mount,   
+                sp ced stereogr m,                       v  u l inform tion
+                                   screen.                       'strong'
+ enough,               'snap back'                                       3D
+           lost. Th                                       stereograms    
+           time,     3D          isn't                                   
+    re-aligns                                    overlap.
+ Continous      
+                            images,                   v  ual            
+                            . Normally,                                  
+            points,                              -
+   ----------||----------||----------||----------||----------||----------
+    However,              Ascii pictures,                                 
+            line,                               ro d.      c n c use
+                         3D.
+        example,                 above,                                    
+                                    ,                                  -
+                   \_____        \___
+                         |           |
+   ----------||----------||----------||----------||----------||----------
+               continous              -
+   ----------------------------------------------------------------------
+                                                               ,        
+                        character,                 w  h                   -
+                          \_              ______________________/
+                            |            |         |
+   ----------------------------------------------------------------------
+                                                                   image.
+          reason, I                            continous                 
+ characters,                                            I want.
+ __________________________________________________________________________
+ 8.           
+    Well,                  conclude? Th                                 w y
+                                                                 Ascii
+ stereograms.                                               I           
+      rtwork,          doesn't           it's                       
+           techniques.
+    I                              useful,             novices,       
+ Ascii                levels. I                                     w y
+                                      Ascii             stereogram   
+                                         Ascii styles.
+          it's                     balance.
+                     drawing!
+                                                          J
+ __________________________________________________________________________
+ A.         3D         
+           can't     stereograms                                   guide,
+        can't                 part,         I've                     
+                                sense!
+                    eyes,                                     
+                                                   Fe ture
+ centimetres,           th   'design
+ feature'                                         ->|   |<- 6-8cm
+ dimensions.
+                                                   |||||||
+                                                  /       \
+                                                 | (o) (o) |
+    'line up'                                    |    .    |
+                                                  \  \_/  /
+          im ge.                                   \_____/
+    Normally,                 something,                                
+ images,               eye.                                             
+    receiving,                                                            
+ overlap.                                                              
+                               sh rp im ge.           eyeb lls           
+   sh rp im ge     n              ction                          nd     
+                       3D effect,          clarity.                 
+ foc     .                                                             
+        trigonometry,                                          focus.    
+                                              .
+ monitor.          -hand '3-D'                                        
+ right-h    '3-D'                      (same             -h    one)    
+                                          focused.                        
+                                                              im ge.    
+                 be.
+              ________3-D___3-D________        ________3-D___3-D________
+                          .
+                        .   .
+                      .       .
+                    .           .
+                  <O>           <O>                <O>           <O>
+                    sees.                                                  
+          (m k  g                                          ir). Norm lly,
+                                                     object,              
+              easily.                                             wh  
+                                                fooled.
+              e rlier,                                        d            
+                                            brain.                         
+                                                 it.
+                                     above,                              
+                  screen.                       tr ining,                  
+              'drift' outw rds,            y                              
+       *behind*     screen.
+                                 'unfocus'                arms'          
+            w ll,                   g inst             nd           h nds
+                  face,             dex f  gers          vertically.
+                       r fingers,             _           _
+                                             |_|         |_|
+                 right.                      |L|         |R|
+                                             | |         | |
+    focus.                                                   
+                     wall.                  _   _       _   _
+                                           |_| |_|     |_| |_|
+ (semi-transparent)         (don't         |L| |L|     |R| |R|
+ worry, they're alright!).                 | | | |     | | | |
+      fingers.
+    Next,                      wall,         _      _      _
+                       f  wards             |_|    |_|    |_|
+                                            |L|    |L|    |R|
+     overl p,                               | |    |R|    | |
+        middle.                                     
+                      wall,                  ^      ^      ^
+                        'combined'           |             |
+        clearly.                             '-Translucent-'
+          th   skill,                                                      
+       focus,                 bra                     see  g 3D pictures.
+                                     new-found (and practiced!) skill,   
+                                                    below. Initially,    
+                          images. However,                   fur   r back,
+     right-eye's             left-h    '3-D'         left-eye's            
+ right-h    '3-D'         (Yes,             re-read      again!).        
+                         confused.                          im ge  t    
+                      (                              in) desp  e         
+                    jumbled.                                            
+ pos  ion,                                                              
+                                      fr  t.
+                                               ________3-D___3-D________
+                          .
+                         . .             3D image->       3-D
+              ________3-D___3-D________
+                       .     .
+                      .       .
+                     .         .
+                    .           .
+                  <O>           <O>                <O>           <O>
+                                          lock-on angle,               
+                          cle r im ge  nd    n rec lcul te     dist nce   
+     object,                         gle.                                
+ angle, *everything*                      (although                       
+ way)          importantly,                                               
+                     -                                                  
+                    back.
+                                                               3D       
+    reverse.             adv  ed                                    
+                                            changes, you'll           way!
+ __________________________________________________________________________
