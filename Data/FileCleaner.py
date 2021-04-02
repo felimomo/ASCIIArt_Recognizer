@@ -54,4 +54,4 @@ def cleaner(oldLoc,newLoc):
     for filename in os.listdir(path=oldLoc):
         withoutExpla(oldLoc,filename,newLoc)
     
-cleaner('./RawASCII','./DataASCII')
+cleaner('RawASCII','DataASCII')
