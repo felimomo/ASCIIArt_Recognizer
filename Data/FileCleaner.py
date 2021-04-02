@@ -11,7 +11,29 @@ def explanation(line):
                 if dicWord.strip("\n") == word:
                     return True
     return False
-    
+
+def isAlmostAlpha(word):
+    if word.isalpha():
+        return 1
+    if word[1:].isalpha():
+        return 2
+    if word[:-1].isalpha():
+        return 3
+    if word[1:-1].isalpha():
+        return 4
+    return 0
+
+def giveAlpha(word):
+    assert isAlmostAlpha(word)!=0, "giveAlpha only works if isAlmostAlpha!=0."
+    if isAlmostAlpha(word)==1:
+        return word
+    if isAlmostAlpha(word)==2:
+        return word[1:]
+    if isAlmostAlpha(word)==3:
+        return word[:-1]   
+    if isAlmostAlpha(word)==4:
+        return word[1:-1] 
+        
     
 def removeWords(line):
     # replaces english words for an equal number of spaces
@@ -19,21 +41,23 @@ def removeWords(line):
     for word in line.split():
         # wordNoPunct=word.strip(punctuation)
         replace=False
-        if word.isalpha():
+        alphaword=word
+        if isAlmostAlpha(word)!=0:
+            alphword = giveAlpha(word)
             with open("Dict3000.txt") as dic:
                 for dicw in dic.readlines():
-                    if word.lower() == dicw.strip("\n"):
+                    if alphaword.lower() == dicw.strip("\n"):
                         replace=True
                         break;
             if not replace:
                 with open("Dict58000.txt") as dic:
                     for dicw in dic.readlines():
-                        if word.lower() == dicw.strip("\n"):
+                        if alphaword.lower() == dicw.strip("\n"):
                             replace=True
                             break;
         if replace:
             # print(line)
-            line = line.replace(word, " "*len(word))
+            line = line.replace(alphaword, " "*len(alphaword))
             # print(line)
     
     return line
