@@ -11,6 +11,28 @@ def explanation(line):
                 if dicWord.strip("\n") == word:
                     return True
     return False
+    
+def removeWords(line):
+    # replaces english words for an equal number of spaces
+    #
+    for word in line.split():
+        wordNoPunct=word.strip(punctuation)
+        replace=False
+        with open("Dict3000.txt") as dic:
+            for w in dic.readlines():
+                if wordNoPunct+"\n" == w:
+                    replace=True
+                    break;
+        line = line.replace(word, " "*len(word))
+    
+    return line
+
+def isWhitespace(line):
+    # returns whether the line is purely white space
+    #
+    if line.split() == []:
+        return True
+    return False
                 
 
 def withoutExpla(oldLoc,filename,newLoc):
@@ -20,8 +42,11 @@ def withoutExpla(oldLoc,filename,newLoc):
     
     with open(oldLoc+"/"+filename,"r") as oldF, open(newLoc+"/"+filename,"w") as newF:
         for line in oldF.readlines():
-            if not explanation(line) and line!="\n":
-                newF.write(line)
+            newline = removeWords(line)
+            if not isWhitespace(newline):
+                newF.write(newline)
+            # if not explanation(line) and line!="\n":
+            #     newF.write(line)
     
 
 def cleaner(oldLoc,newLoc):
