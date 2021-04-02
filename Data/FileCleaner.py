@@ -16,7 +16,7 @@ def removeWords(line):
     # replaces english words for an equal number of spaces
     #
     for word in line.split():
-        wordNoPunct=word.strip(punctuation)
+        wordNoPunct=word
         replace=False
         with open("Dict3000.txt") as dic:
             for w in dic.readlines():
