@@ -12,17 +12,25 @@ def explanation(line):
                     return True
     return False
     
+    
 def removeWords(line):
     # replaces english words for an equal number of spaces
     #
     for word in line.split():
         # wordNoPunct=word.strip(punctuation)
         replace=False
-        with open("Dict58000.txt") as dic:
-            for w in dic.readlines():
-                if word == w.strip("\n"):
-                    replace=True
-                    break;
+        if word.isalpha():
+            with open("Dict3000.txt") as dic:
+                for dicw in dic.readlines():
+                    if word.lower() == dicw.strip("\n"):
+                        replace=True
+                        break;
+            if not replace:
+                with open("Dict58000.txt") as dic:
+                    for dicw in dic.readlines():
+                        if word.lower() == dicw.strip("\n"):
+                            replace=True
+                            break;
         if replace:
             print(line)
             line = line.replace(word, " "*len(word))
