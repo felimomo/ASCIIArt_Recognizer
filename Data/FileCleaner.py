@@ -20,11 +20,13 @@ def removeWords(line):
         replace=False
         with open("Dict3000.txt") as dic:
             for w in dic.readlines():
-                if wordNoPunct+"\n" == w:
+                if wordNoPunct == w.strip("\n"):
+                    print(line)
                     replace=True
                     break;
         line = line.replace(word, " "*len(word))
     
+    print(line)
     return line
 
 def isWhitespace(line):
