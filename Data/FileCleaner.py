@@ -21,9 +21,9 @@ def removeWords(line):
         with open("Dict3000.txt") as dic:
             for w in dic.readlines():
                 if wordNoPunct == w.strip("\n"):
-                    print(line)
                     replace=True
                     break;
+        print(line)
         line = line.replace(word, " "*len(word))
     
     print(line)
