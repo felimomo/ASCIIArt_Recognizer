@@ -17,5 +17,3 @@ ASCII art files:
 Data taken from https://github.com/joeky888/ASCII-Art-collection.git, 
 a frozen archive of the ASCII Art collection on http://ascii-art.de/ascii 
 
-
-(Data last updated: Sunday 24 July 2005)
